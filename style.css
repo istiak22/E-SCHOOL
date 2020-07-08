@@ -1,0 +1,103 @@
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+section {
+    background-color:#F0FFF0;
+    height: 600px;
+}
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.Logo-image img {
+    width: 300px;
+    height: 79px;
+}
+/*========Header Part===================*/
+.hadder {
+    padding-top: 40px;
+}
+.hadder-image img{
+    width: 500px;
+}
+.nav-link {
+    font-weight: 500;
+    margin: 10px;
+    font-size: 21px;
+}
+
+.link-button {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+    padding: 8px 18px 8px 18px;
+    font-weight: 500;
+    background: #21B573;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+  }
+  .link-button:hover {
+    background: #11C675;
+    text-decoration: none;
+    color: black;
+  }
+  .box-shaddow{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    cursor: pointer;
+  }
+  .box-shaddow:hover {
+    background: #F0FFF0;
+    text-decoration: none;
+    color: black;
+  }
+/*=======Icon and Catagory===============*/
+  .icon-customize img {
+      width: 50px;
+      padding-bottom: 30px;
+  }
+  .icon-customize {
+      text-align: center;
+  }
+/*=======Online Course Card Part=========*/
+.online-Course {
+    text-align: center;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    cursor: pointer
+}
+.card:hover {
+    background: #F0FFF0;
+    text-decoration: none;
+    color: black;
+  }
+.footer-icon img {
+    width: 20px;
+}
+/*=========Testimonial Part=========*/
+.Testimonial-man img {
+    width: 200px;
+}
+
+footer {
+    background-color: #272530;
+    color: #fff;
+    font-size: 16px;
+  }
+  footer ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  
